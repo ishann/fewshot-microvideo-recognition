@@ -1,6 +1,7 @@
 # fewshot-microvideo-recognition
 
-Run the pretrained_nn.ipynb file to generate results for table 1 row 1
+Run the code/neural_network/pretrained_nn.ipynb file to generate results for table 1 row 1
+Run the code/neural_network/concat_nn.ipynb file to generate results for table 1 row 1
 
 Run the concat_nn.ipynb file to generate results for table 1 row 3
 
